@@ -4,4 +4,5 @@ Documentation about projects that I did when I was a student majoring in statist
 
 ## Table of Contents
 
-> dsadas
+1. Exploratory Data Analysis (EDA)
+2. Multivariate Analysis of Variance (MANOVA)
