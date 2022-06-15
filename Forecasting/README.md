@@ -7,4 +7,4 @@ Kolaborasi bersama dengan Jasmine Husna Sanditya dan Joan Bidadari Annandale.
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ## Tujuan
-Memprediksi sebanyak apa penjualan selama beberapa bulan kedepan dan dapat digunakan sebagai pencegahan kerugian penjualan toko di masa depan
+Memprediksi sebanyak apa penjualan selama beberapa bulan kedepan dan dapat digunakan sebagai pencegahan kerugian penjualan toko di masa depan.
