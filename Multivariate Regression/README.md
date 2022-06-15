@@ -1,11 +1,10 @@
-# MANOVA
-Analisis Pengaruh Kelima Negara Asean Terhadap Rasio Kelahiran dan Kematian Penduduk serta Angka Kematian Bayi Pada Tahun 2004 -2010 Dengan Menggunakan MANOVA atau Multivariate Analysis of Variance
+# Multivariate Regression Analysis
+Analisis Pengaruh Komposisi Udara Terhadap Suhu dan Kelembapan.
+
+Kolaborasi bersama Evan Haryowidyatna dan Siskawati Simandalahi.
 
 ## Sumber dataset :
-https://www.kaggle.com/datasets/wyewlee/asean-sdg3-good-health-and-wellbeing?select=Infant+mortality+rate.csv
+https://archive.ics.uci.edu/ml/datasets/air+quality
 
 ## Tujuan
-Tujuan dari pengujian adalah mengetahui apakah kelima negara yaitu Indonesia, Malaysia, Singapur, Thailand, dan juga Filipina berpengaruh pada nilai-nilai Angka Kematian Bayi(IMR),Rasio Kelahiran Kasar(CBR),dan Rasio Kematian Kasar(CDR).
-
-## Preprocessing dataset dengan menggunakan Python di :
-https://colab.research.google.com/drive/1hhxcMf63ABVuzh1IDDXQ42sCKISaFcoZ?usp=sharing
+Menganalisis pengaruh beberapa variabel independen terhadap variabel-variabel dependen lainnya dalam waktu yang bersamaan.
