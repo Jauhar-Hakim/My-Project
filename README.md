@@ -6,5 +6,5 @@ Documentation about projects that I did when I was a student majoring in statist
 
 1. Exploratory Data Analysis (EDA)
 2. Multivariate Analysis of Variance (MANOVA)
-3. Multivariate Regression
-4. Forecasting
+3. Multivariate Regression Analysis
+4. Forecasting Analysis
