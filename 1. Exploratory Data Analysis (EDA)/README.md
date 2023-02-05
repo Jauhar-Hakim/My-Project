@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA)
-In collaboration with Felicia and Joan Bidadari Annandale we did exploratory data analysis about Climate Change and GHG Emissions in ASEAN Countries.
+In collaboration with Felicia and Joan Bidadari Annandale we did exploratory data analysis about Climate Change and GHG Emissions in ASEAN Countries. We use python programming to cleaning data and generate some graph and use canva to make presentation slides.
 
 ## Data Source :
 1. https://www.germanwatch.org/sites/default/files/20-2-01e%20Global%20Climate%20Risk%20Index%202020_14.pdf
