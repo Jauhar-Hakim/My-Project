@@ -1,4 +1,4 @@
-# Forecasting (Peramalan)
+# Forecasting (Peramalan) Analysis
 Analisis Peramalan Dengan Metode Box-Jenkins ARIMA Terhadap Penjualan Sebuah Toko Selama 4 Tahun.
 
 Kolaborasi bersama dengan Jasmine Husna Sanditya dan Joan Bidadari Annandale.
