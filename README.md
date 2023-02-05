@@ -5,6 +5,8 @@ Documentation about projects that I did when I was a student majoring in statist
 ## Table of Contents
 
 1. Exploratory Data Analysis (EDA)
-2. Multivariate Analysis of Variance (MANOVA)
-3. Multivariate Regression Analysis
-4. Forecasting Analysis
+2. Multivariate Analysis
+3. Forecasting Analysis
+4. Database SQL Project
+5. Econometrics Project
+6. Data Mining & Business intelligence Project
