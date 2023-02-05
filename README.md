@@ -1,6 +1,6 @@
 # My Project
 
-Hello my name is Muhammad Jauhar Hakim and this is documentation about projects that I did when I was a student majoring in statistics at the University of Indonesia.
+Hello my name is Muhammad Jauhar Hakim and this is documentation about projects that I did when I was a student majoring in statistics at the University of Indonesia individually or team up with my friends.
 
 ## Table of Contents
 
