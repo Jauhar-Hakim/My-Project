@@ -1,12 +1,4 @@
-# My Project
+# Database SQL Project
+Collaborating with Felicia, Jasmine Husna Sanditya, Joan Bidadari Annandale, and Nicholas Sky Salvatio, we created a database for the game development team system. The process includes CRUD (Create Read Update Delete) and the simulated use of JOIN and conditionals WHERE functions.
 
-Hello my name is Muhammad Jauhar Hakim and this is documentation about projects that I did when I was a student majoring in statistics at the University of Indonesia individually or team up with my friends.
-
-## Table of Contents
-
-1. Exploratory Data Analysis (EDA)
-2. Multivariate Analysis
-3. Forecasting Analysis
-4. Database SQL Project
-5. Econometrics Project
-6. Data Mining & Business intelligence Project
+We use MySQL, Python, and SQLite for the process of making this database.
