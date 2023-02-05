@@ -1,4 +1,4 @@
-# MANOVA
+# Multivariate Analysis of Variance (MANOVA)
 Analisis Pengaruh Kelima Negara Asean Terhadap Rasio Kelahiran dan Kematian Penduduk serta Angka Kematian Bayi Pada Tahun 2004 -2010 Dengan Menggunakan MANOVA atau Multivariate Analysis of Variance
 
 ## Sumber dataset :
