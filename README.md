@@ -1,4 +1,4 @@
-# My Project
+# My Project [![English](https://img.shields.io/badge/lang-en-red.svg)]()
 
 Hello my name is Muhammad Jauhar Hakim and this is documentation about projects that I did when I was a student majoring in statistics at the University of Indonesia individually or team up with my colleagues.
 
@@ -10,3 +10,8 @@ Hello my name is Muhammad Jauhar Hakim and this is documentation about projects 
 4. Database SQL Project
 5. Econometrics Project
 6. Data Mining & Business intelligence Project
+
+<hr style="border:2px solid blue">
+<hr style="border:2px solid blue">
+
+halo
