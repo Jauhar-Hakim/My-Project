@@ -4,12 +4,12 @@ Hello my name is Muhammad Jauhar Hakim and this is documentation about projects 
 
 ## Table of Contents
 
-1. Exploratory Data Analysis (EDA)
-2. Multivariate Analysis
-3. Forecasting Analysis (Arima Box-Jenkins Method)
-4. Database SQL Project
-5. Econometrics Project
-6. Data Mining & Business intelligence Project
+1. <details open> <summary> Exploratory Data Analysis (EDA) </summary> <br> Testing </details>
+3. Multivariate Analysis
+4. Forecasting Analysis (Arima Box-Jenkins Method)
+5. Database SQL Project
+6. Econometrics Project
+7. Data Mining & Business intelligence Project
 
 <hr style="border:2px solid blue">
 <hr style="border:2px solid blue">
