@@ -4,12 +4,12 @@ Hello my name is Muhammad Jauhar Hakim and this is documentation about projects 
 
 ## Table of Contents
 
-1. <details open> <summary> Exploratory Data Analysis (EDA) </summary> <br> Testing </details>
-3. Multivariate Analysis
-4. Forecasting Analysis (Arima Box-Jenkins Method)
-5. Database SQL Project
-6. Econometrics Project
-7. Data Mining & Business intelligence Project
+<details markdown="1"> <summary> 1. Exploratory Data Analysis (EDA) </summary> <br> Testing </details>
+<details markdown="1"> <summary> 2. Multivariate Analysis </summary> <br> Testing </details>
+<details markdown="1"> <summary> 3. Forecasting Analysis (Arima Box-Jenkins Method) </summary> <br> Testing </details>
+<details markdown="1"> <summary> 4. Database SQL Project </summary> <br> Testing </details>
+<details markdown="1"> <summary> 5. Econometrics Project </summary> <br> Testing </details>
+<details markdown="1"> <summary> 6. Data Mining & Business intelligence Project </summary> <br> Testing </details>
 
 <hr style="border:2px solid blue">
 <hr style="border:2px solid blue">
@@ -20,9 +20,9 @@ Halo, nama saya Muhamammad Jauhar Hakim dan ini adalah dokumentasi mengenai proj
 
 ## Daftar Isi
 
-1. Analisis Data Eksploratif
-2. Analisis Multivariat
-3. Analisis Peramalan
-4. Projek Database SQL
-5. Projek Ekonometri
-6. Projek Data Mining & Business intelligence
+<details markdown="1"> <summary> 1. Analisis Data Eksploratif </summary> <br> Testing </details>
+<details markdown="1"> <summary> 2. Analisis Multivariat </summary> <br> Testing </details>
+<details markdown="1"> <summary> 3. Analisis Peramalan (Metode Arima Box-Jenkins) </summary> <br> Testing </details>
+<details markdown="1"> <summary> 4. Projek Database SQL </summary> <br> Testing </details>
+<details markdown="1"> <summary> 5. Projek Ekonometri </summary> <br> Testing </details>
+<details markdown="1"> <summary> 6. Projek Data Mining & Business intelligence </summary> <br> Testing </details>
