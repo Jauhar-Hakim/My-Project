@@ -1,5 +1,5 @@
 # Multivariate Analysis
-The project being worked on is learning-oriented, so all multivariate analysis methods used are in accordance with the data used.
+The project being worked on is learning-oriented, so all multivariate analysis methods used are in accordance with the data used. We use R progamming to do multivariate analysis.
 
 ## Table of Contents
 
